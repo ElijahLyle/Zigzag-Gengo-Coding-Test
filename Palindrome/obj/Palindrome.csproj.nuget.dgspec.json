@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elijah Minguez\\source\\repos\\Palindrome_Sol\\Palindrome\\Palindrome.csproj": {}
+    "C:\\Users\\Elijah Minguez\\source\\repos\\ElijahLyle\\Zigzag-Gengo-Coding-Test\\Palindrome\\Palindrome.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elijah Minguez\\source\\repos\\Palindrome_Sol\\Palindrome\\Palindrome.csproj": {
+    "C:\\Users\\Elijah Minguez\\source\\repos\\ElijahLyle\\Zigzag-Gengo-Coding-Test\\Palindrome\\Palindrome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elijah Minguez\\source\\repos\\Palindrome_Sol\\Palindrome\\Palindrome.csproj",
+        "projectUniqueName": "C:\\Users\\Elijah Minguez\\source\\repos\\ElijahLyle\\Zigzag-Gengo-Coding-Test\\Palindrome\\Palindrome.csproj",
         "projectName": "Palindrome",
-        "projectPath": "C:\\Users\\Elijah Minguez\\source\\repos\\Palindrome_Sol\\Palindrome\\Palindrome.csproj",
+        "projectPath": "C:\\Users\\Elijah Minguez\\source\\repos\\ElijahLyle\\Zigzag-Gengo-Coding-Test\\Palindrome\\Palindrome.csproj",
         "packagesPath": "C:\\Users\\Elijah Minguez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elijah Minguez\\source\\repos\\Palindrome_Sol\\Palindrome\\obj\\",
+        "outputPath": "C:\\Users\\Elijah Minguez\\source\\repos\\ElijahLyle\\Zigzag-Gengo-Coding-Test\\Palindrome\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

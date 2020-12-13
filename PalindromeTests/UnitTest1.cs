@@ -17,7 +17,6 @@ namespace PalindromeTests
         [TestMethod]
         public void Palindrome_Level1()
         {
-            //Assert.IsTrue(palindrome.checkPalindrome(input_1));
             Assert.AreEqual(true, palindrome.checkPalindrome(input_1));
             Assert.AreEqual(false, palindrome.checkPalindrome(input_2));
             Assert.AreEqual(false, palindrome.checkPalindrome(input_3));

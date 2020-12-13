@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BlP0nl0NJ3PVZHZ16nOxFtc+sjnhrbrxpuK84XQW/6BmAOmMovbK20KTCaGMq4iKeKkHz4d03x6Yg+cD94ZIBg==",
+  "dgSpecHash": "zhJlWVtwvYUT7ub35QVVEPTbTuJkYwI/RNpwaZFUp2wDUEzmP3WNsNu+LjXx4xDz8R93o+1tseSgUGIj7jG8LQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Elijah Minguez\\source\\repos\\Palindrome_Sol\\PalindromeTests\\PalindromeTests.csproj",
+  "projectFilePath": "C:\\Users\\Elijah Minguez\\source\\repos\\ElijahLyle\\Zigzag-Gengo-Coding-Test\\PalindromeTests\\PalindromeTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Elijah Minguez\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\Elijah Minguez\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

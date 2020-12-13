@@ -10,11 +10,11 @@ namespace Palindrome
         static void Main(string[] args)
         {
             Program run = new Program();
-            String r = "Step on no pets";
-            Console.WriteLine(r);
-            Console.WriteLine(run.checkPalindrome(r));
-            Console.WriteLine(run.longestPalindrome(r));
-            Console.WriteLine(run.cutPalindrome(r));
+            Console.WriteLine("Enter a string: ");
+            String r = Console.ReadLine();
+            //Console.WriteLine(run.checkPalindrome(r));
+            //Console.WriteLine("The longest palindrome in the string is: " + run.longestPalindrome(r));
+            Console.WriteLine("The number of cuts needed so the remaining substrings are palindromes: " + run.cutPalindrome(r));
         }
 
         private static string reverseString(String s)
