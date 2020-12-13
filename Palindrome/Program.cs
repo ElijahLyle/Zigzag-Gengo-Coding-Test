@@ -76,8 +76,6 @@ namespace Palindrome
                             index_of_longest_right = right_list.Count - 1;
                     }
                 }
-                Console.WriteLine("Iteration {0}, Palindrome (from left) {1}, Reversed {2}", a, palindrome_left, reversed_left);
-                Console.WriteLine("Iteration {0}, Palindrome (from right) {1}, Reversed {2}", a, palindrome_right, reversed_right);
             }
             if (left_list[index_of_longest_left].Length >= right_list[index_of_longest_right].Length)
                 return left_list[index_of_longest_left];
