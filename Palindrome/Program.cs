@@ -12,8 +12,8 @@ namespace Palindrome
             Program run = new Program();
             Console.WriteLine("Enter a string: ");
             String r = Console.ReadLine();
-            //Console.WriteLine(run.checkPalindrome(r));
-            //Console.WriteLine("The longest palindrome in the string is: " + run.longestPalindrome(r));
+            Console.WriteLine("Is the whole string a palindrome?" + run.checkPalindrome(r));
+            Console.WriteLine("The longest palindrome in the string is: " + run.longestPalindrome(r));
             Console.WriteLine("The number of cuts needed so the remaining substrings are palindromes: " + run.cutPalindrome(r));
         }
 
